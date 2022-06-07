@@ -1,4 +1,4 @@
-# Continuum-Robot-Kinematics-
+# Continuum Robot Kinematics
 ## Continuum Robot Kinematics are modeled as Circular arcs
 #### Continuum robot are considered as 'n' circular arcs and useing these are its kinematics are modeled. We can use robot specific parameters and convert them to these circular parameters and then use those to map kinematics.
 ![image](https://user-images.githubusercontent.com/106041952/172272483-5c27f7be-7405-4ec9-906d-e4cd890f007e.png)
